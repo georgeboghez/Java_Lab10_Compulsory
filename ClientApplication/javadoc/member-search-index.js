@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ro.uaic.info.georgeboghez","c":"GameClient","l":"GameClient()","url":"%3Cinit%3E()"},{"p":"ro.uaic.info.georgeboghez","c":"GameClient","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"ro.uaic.info.georgeboghez","c":"GameClient","l":"PORT"},{"p":"ro.uaic.info.georgeboghez","c":"GameClient","l":"serverAddress"}]
